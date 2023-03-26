@@ -14,7 +14,7 @@
 <style>
   article {
     width: 100%;
-    margin: 0px;
+    margin: 0;
     border-radius: 1px rgb(8, 8, 8);
     box-shadow: 0 2px 2px rgb(179, 10, 10);
     justify-content: center;
@@ -46,7 +46,6 @@
     .card {
       grid-template-columns: repeat(3, 1fr);
       margin: 0;
-      max-width: fit-content;
     }
   }
 </style>
