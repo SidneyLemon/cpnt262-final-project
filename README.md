@@ -11,5 +11,3 @@ A link to the GH Pages site: https://cpnt262-final-project.vercel.app/
     - Images: - https://unsplash.com/
 
     - Form: https://formspree.io/
-
-    - Form styling: https://tailwindcss.com/
