@@ -11,6 +11,7 @@
   <ul>
     <a href="/">Home</a>
     <a href="/menu">Menu</a>
+    <a href="/about">About</a>
   </ul>
 </nav>
 

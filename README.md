@@ -9,3 +9,7 @@ A link to the GH Pages site: https://cpnt262-final-project.vercel.app/
     - RE; CPNT 262 class video recordings and daily class notes
 
     - Images: - https://unsplash.com/
+
+    - Form: https://formspree.io/
+
+    - Form styling: https://tailwindcss.com/
